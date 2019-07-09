@@ -38,7 +38,7 @@ The data has been split into two groups:
 Some children travelled only with a nanny, therefore parch=0 for them. <br />
 
 ### Summary of Findings
-- Male died much more than females
+- Males died much more than females
 - Passengers with family are more likely to survive
 - A majority of passengers were embarked from Southampton
 - Older passengers are not likely to survive
