@@ -11,7 +11,9 @@ One of the reasons that the shipwreck led to such loss of life was that there we
 
 In this challenge, we ask you to complete the analysis of what sorts of people were likely to survive. In particular, we ask you to apply the tools of machine learning to predict which passengers survived the tragedy. <br />
 
-### Data Overview
+### Data and Files
+- `titanic-ml-from-disaster.ipynb`: main jupyter notebook includes data analysis and visualization <br />
+- `submission.csv`: a CSV file that contains submission data to Kaggle competition
 The data has been split into two groups:
 - `train.csv`: training set
 - `test.csv`: test set
@@ -57,4 +59,4 @@ Some children travelled only with a nanny, therefore parch=0 for them. <br />
 
 ### Testing Result
 - With SVM giving the highest score, I submitted `submission.csv` file and checked my score (ranked in 7100)
-- Since it's my first submission, I will use XGBoost to increase my score and re-submit again. 
+- Since it's my first submission, I will use XGBoost to increase my score and re-submit again.
